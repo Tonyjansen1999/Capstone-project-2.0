@@ -1,0 +1,45 @@
+.background {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    background-color: blanchedalmond;
+}
+
+.col-lg-6 {
+    font-weight: 800;
+           
+}
+.text-body-emphasis {
+    font-weight: 800;
+}
+.neymar {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 10rem;
+    position: center;
+}
+.editing {
+    font-weight: 800;
+    margin-left: 10rem;
+}
+.editing-gif {
+    width: 30rem;
+    height: 20rem;
+    position: center;
+    margin-left: 5rem;
+}
+.gaming {
+    font-weight: 800;
+    margin-left: 10rem;
+}
+.gaming-gif {
+    width: 30rem;
+    height: 20rem;
+    position: center;
+    margin-left: 5rem;
+}
+.parent {
+    position: center;
+}
+.paragraph {
+    margin-left: 10rem;
+}
